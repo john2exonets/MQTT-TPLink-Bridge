@@ -1,0 +1,28 @@
+{
+  "name": "mqttTPLinkBridge",
+  "version": "1.0.0",
+  "description": "TP Link-to-MQTT Bridge",
+  "main": "mqtttplinkbridge.js",
+  "scripts": {
+    "test": "echo \"Error: No tests specified.\" && exit 1",
+    "start": "node mqtttplinkbridge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "// {https://github.com/john2exonets/MQTT-TPLink-Bridge.git"
+  },
+  "keywords": [
+    "MQTT",
+    "NodeJS",
+    "TP-Link"
+  ],
+  "author": "John D. Allen",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.12"
+  },
+  "dependencies": {
+    "mqtt": "^2.6",
+    "tplink-smarthome-api": "^1.2.0"
+  }
+}
