@@ -15,7 +15,7 @@
    ],
    "lights": [
      { "name": "OfficeLamp", "ip": "10.1.1.5", "group": "xmas" },
-     { "name": "Kitchen1", "ip": "10.1.1.10", "group': "kitchen" },
+     { "name": "Kitchen1", "ip": "10.1.1.10", "group": "kitchen" },
      { "name": "Kitchen2", "ip": "10.1.1.11", "group": "kitchen" },
      { "name": "Kitchen3", "ip": "10.1.1.12", "group": "kitchen" }
    ]
